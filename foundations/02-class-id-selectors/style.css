@@ -4,16 +4,16 @@
 }
 
 #second-element{
-    color: rgb(234, 123, 70);
+    color: rgb(89, 70, 234);
     font-size: 36px;
 }
 
-#third-element{
+#font-size-24{
     font-size: 24px;
 }
 
-#fouth-element{
+#fourth-element{
     background-color: lightgreen;
-    font-size: 24px;
     font-weight: bold;
 }
+
